@@ -18,7 +18,7 @@ body .navbar{
     align-items: center;
     justify-content: space-around;
     background: rgb(255, 255, 255);
-    box-shadow: 0px 10px 45px black;
+    box-shadow: 0px 6px 45px black;
 }
 
 .navbar #search{
@@ -45,7 +45,7 @@ body .sidebar{
     background: rgb(255, 255, 255);
     border-radius: 20px;
     margin: 15px 5px;
-    box-shadow: 0px 10px 45px black;
+    box-shadow: 0px 6px 45px black;
 }
 
 body .main{
@@ -99,7 +99,7 @@ body .main{
     padding: 25px 10px;
     width: 350px;
     margin-bottom: 10px;
-    box-shadow: 0px 10px 45px black;
+    box-shadow: 0px 6px 45px black;
 
 }
 
@@ -139,7 +139,7 @@ body .main{
     border-radius: 10px;
     margin-bottom: 10px;
     height: 100%;
-    box-shadow: 0px 10px 45px black;
+    box-shadow: 0px 6px 45px black;
 }
 
 
@@ -186,7 +186,7 @@ body .main{
     flex-direction: column;
     border-radius: 15px;
     margin: 0px 10px;
-    box-shadow: 0px 10px 45px black;
+    box-shadow: 0px 6px 45px black;
 }
 
 #input-buttons{
@@ -198,7 +198,7 @@ body .main{
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
-    box-shadow: 0px 10px 45px black;
+    box-shadow: 0px 6px 45px black;
 }
 
 .input-button{
@@ -227,7 +227,7 @@ body .main{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    box-shadow: 0px 10px 45px black;
+    box-shadow: 0px 6px 45px black;
 }
 
 #input-form input{
